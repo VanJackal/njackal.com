@@ -1,0 +1,16 @@
+body{
+    background: blanchedalmond;
+    font-family: "Roboto Light", sans-serif;
+    color: #454545;
+}
+
+.main {
+    height: 100%;
+    position: relative;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
